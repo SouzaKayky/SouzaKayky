@@ -1,26 +1,24 @@
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
+<h2 align="center">📊 Minhas Estatísticas</h2>
 
 <div align="center">
 
-  <!-- LINGUAGENS -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=github_dark&title_color=3b82f6&text_color=3b82f6&hide_border=true" 
-    height="180em"
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&langs_count=6&theme=github_dark&title_color=58a6ff&text_color=58a6ff"
   />
 
-  <!-- COMMITS -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=github_dark&title_color=3b82f6&text_color=3b82f6&icon_color=3b82f6&hide_border=true"
-    height="180em"
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&count_private=true&theme=github_dark&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff"
   />
 
-  <!-- STREAK -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=SouzaKayky&theme=github-dark&border=0000&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6"
-    height="180em"
+  <img 
+    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com?user=SouzaKayky&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
   />
 
 </div>
+
 
 <h1 align="center">Sobre mim</h1>
 
