@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50"/>
 
   <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="80"/>
+
 
 </div>
