@@ -1,13 +1,17 @@
+
 <h1 align="center">Sobre mim</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação e entusiasta de <strong>Python, IA e Análise de Dados</strong>.<br>
-  Busco transformar ideias em soluções reais por meio de automações, web scraping e aplicações inteligentes.
+  Sou estudante de Ciência da Computação e apaixonado por tecnologia.  
+  Tenho foco em <strong>Python, Análise de Dados e Inteligência Artificial</strong>, buscando desenvolver uma base sólida para atuar de forma profissional na área.
+  Trabalho diariamente para evoluir minhas habilidades, estudar novas ferramentas e construir um caminho consistente rumo ao mercado de tecnologia.
+  Meu objetivo é aplicar conhecimento de forma prática, contribuir com soluções eficientes e continuar avançando como desenvolvedor e profissional de TI.
 </p>
+
 
 ---
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Tecnologias</h1>
 
 <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
 
