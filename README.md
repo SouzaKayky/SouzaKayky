@@ -18,17 +18,17 @@
 
   <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=github_dark&title_color=00aaff&text_color=00aaff&hide_border=true"
-      height="165"
+      height="125"
     />
 
   <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=SouzaKayky&theme=github-dark&hide_border=true&ring=00aaff&fire=00aaff&currStreakLabel=00aaff"
-      height="165"
+      height="125"
     />
 
   <img 
       src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=github_dark&title_color=00aaff&text_color=00aaff&icon_color=00aaff&hide_border=true"
-      height="165"
+      height="125"
     />
 
   </div>
