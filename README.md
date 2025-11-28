@@ -9,28 +9,6 @@
 
 ---
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&bg_color=00000000&theme=default&title_color=00aaff&text_color=00aaff&hide_border=true"
-      height="125"
-    />
-
-  <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=SouzaKayky&background=00000000&hide_border=true&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideLabels=00aaff&dates=00aaff&sideNums=00aaff"
-      height="125"
-    />
-
-  <img 
-      src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&bg_color=00000000&theme=default&title_color=00aaff&text_color=00aaff&icon_color=00aaff&hide_border=true"
-      height="125"
-    />
-
-  </div>
-</div>
-
----
-
 <h2 align="center">Tecnologias</h2>
 
 <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -45,4 +23,21 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Horizontal.png" width="150"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" width="60"/>
 
+</div>
+
+---
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&bg_color=00000000&theme=default&title_color=00aaff&text_color=00aaff&hide_border=true"
+      height="125"
+    />
+
+  <img 
+      src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&bg_color=00000000&theme=default&title_color=00aaff&text_color=00aaff&icon_color=00aaff&hide_border=true"
+      height="125"
+    />
+
+  </div>
 </div>
