@@ -1,23 +1,32 @@
-<h2 align="center">📊 Minhas Estatísticas</h2>
+<h2 align="center">📊 Minhas estatísticas</h2>
 
 <div align="center">
 
-  <img 
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&langs_count=6&theme=github_dark&title_color=58a6ff&text_color=58a6ff"
-  />
+  <!-- Container responsivo -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-  <img 
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&count_private=true&theme=github_dark&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff"
-  />
+    <!-- Estatísticas gerais -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=github_dark&title_color=1f6feb&text_color=1f6feb&icon_color=1f6feb"
+      alt="Estatísticas Gerais" 
+      height="180">
 
-  <img 
-    height="160"
-    src="https://github-readme-streak-stats.herokuapp.com?user=SouzaKayky&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
-  />
+    <!-- Linguagens mais usadas -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=github_dark&title_color=1f6feb&text_color=1f6feb"
+      alt="Linguagens mais usadas"
+      height="180">
+
+    <!-- Commits e contribuição -->
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=SouzaKayky&theme=github-dark-blue&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb"
+      alt="Commits e sequência"
+      height="180">
+
+  </div>
 
 </div>
+
 
 
 <h1 align="center">Sobre mim</h1>
