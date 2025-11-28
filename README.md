@@ -1,4 +1,4 @@
-<h2 align="center">📊 Minhas estatísticas</h2>
+
 
 <div align="center">
 
