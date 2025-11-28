@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 
 <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
 
