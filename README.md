@@ -1,27 +1,26 @@
-### 📊 Linguagens mais usadas
-<div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=radical&border_radius=15&title_color=ff0055&text_color=ffffff" 
-       height="180px"
-/>
-</div>
+<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 
-### 🔥 Atividade de commits
 <div align="center">
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=SouzaKayky&theme=react-dark&bg_color=000000&color=ff2e63&line=08fdd8&point=f8f8f2&area=true&hide_border=true"
-       height="260px"
-/>
-</div>
 
-### 💥 Status do GitHub
-<div align="center">
+  <!-- LINGUAGENS -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=radical&border_radius=15&icon_color=08fdd8&title_color=ff0055"
-       height="180px"
-/>
-</div>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=github_dark&title_color=3b82f6&text_color=3b82f6&hide_border=true" 
+    height="180em"
+  />
 
+  <!-- COMMITS -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=github_dark&title_color=3b82f6&text_color=3b82f6&icon_color=3b82f6&hide_border=true"
+    height="180em"
+  />
+
+  <!-- STREAK -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=SouzaKayky&theme=github-dark&border=0000&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6"
+    height="180em"
+  />
+
+</div>
 
 <h1 align="center">Sobre mim</h1>
 
