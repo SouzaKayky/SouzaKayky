@@ -1,3 +1,11 @@
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight" />
+
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+
 
 <h1 align="center">Sobre mim</h1>
 
