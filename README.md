@@ -1,21 +1,9 @@
-<h1 align="center">👋 Olá! Eu sou o Kayky Souza</h1>
+<h1 align="center">Sobre mim</h1>
 
 <p align="center">
   Estudante de Ciência da Computação e entusiasta de <strong>Python, IA e Análise de Dados</strong>.
   Busco transformar ideias em soluções reais por meio de automações, web scraping e aplicações inteligentes.
 </p>
-
----
-
-## 🧠 Sobre mim
-
-- 🎓 Atualmente estudando **Ciência da Computação**
-- 🐍 Focado em **Python**, automação e análise de dados  
-- 🤖 Explorando **Inteligência Artificial**, LangChain, agentes e integrações  
-- 🌐 Experiência com **web scraping**, Playwright, Selenium e extração de dados complexos  
-- 📊 Interesses: dados, IA, cybersegurança, cloud, automações e boas práticas em desenvolvimento  
-- 🚀 Sempre estudando algo novo e buscando evoluir profissionalmente  
-- 💼 Acredito em aprendizado prático, simples e eficiente  
 
 ---
 
