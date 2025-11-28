@@ -2,22 +2,21 @@
 
 <div align="center">
 
-  <!-- Container responsivo -->
+  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-    <!-- Estatísticas gerais -->
+    
   <img 
       src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=github_dark&title_color=1f6feb&text_color=1f6feb&icon_color=1f6feb"
       alt="Estatísticas Gerais" 
       height="180">
 
-    <!-- Linguagens mais usadas -->
+    
    <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=github_dark&title_color=1f6feb&text_color=1f6feb"
       alt="Linguagens mais usadas"
       height="180">
 
-    <!-- Commits e contribuição -->
   <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=SouzaKayky&theme=github-dark-blue&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb"
       alt="Commits e sequência"
