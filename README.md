@@ -7,8 +7,10 @@
 
 ---
 
+<p align="center">
 ## 🛠️ Tecnologias
 
+<p align="center">
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
   <!-- Python -->
