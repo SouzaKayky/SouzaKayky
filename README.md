@@ -1,10 +1,19 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouzaKayky&theme=tokyonight" />
+### 📊 Linguagens mais usadas
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=radical&border_radius=15&title_color=ff0055&text_color=ffffff" 
+       height="180px"
+/>
+</div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=tokyonight" />
+### 🔥 Atividade de commits
+<div align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=SouzaKayky&theme=react-dark&bg_color=000000&color=ff2e63&line=08fdd8&point=f8f8f2&area=true&hide_border=true"
+       height="260px"
+/>
+</div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouzaKayky&theme=tokyonight" />
 
 
 <h1 align="center">Sobre mim</h1>
