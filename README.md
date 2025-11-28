@@ -39,6 +39,10 @@
   <!-- Docker -->
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Horizontal.png" width="150"/>
 
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="60"/>
+
+  
+
 
 
 </div>
