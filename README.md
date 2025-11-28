@@ -14,6 +14,13 @@
 />
 </div>
 
+### 💥 Status do GitHub
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=radical&border_radius=15&icon_color=08fdd8&title_color=ff0055"
+       height="180px"
+/>
+</div>
 
 
 <h1 align="center">Sobre mim</h1>
