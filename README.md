@@ -11,23 +11,34 @@
 
 ---
 
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
 <div align="center">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
   <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=github_dark&title_color=00aaff&text_color=00aaff&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=transparent&title_color=007bff&text_color=007bff&hide_border=true" 
+      alt="Linguagens" 
       height="165"
     />
 
   <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=SouzaKayky&theme=github-dark&hide_border=true&ring=00aaff&fire=00aaff&currStreakLabel=00aaff"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SouzaKayky&bg_color=00000000&color=007bff&line=007bff&point=007bff&hide_border=true&custom_title=Atividade%20por%20Dia%20da%20Semana" 
+      alt="Commits por dia"
       height="165"
     />
+
   <img 
-      src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=github_dark&title_color=00aaff&text_color=00aaff&icon_color=00aaff&hide_border=true"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SouzaKayky&theme=transparent&title_color=007bff&text_color=007bff&hide_border=true" 
+      alt="Horários mais produtivos"
       height="165"
     />
+
+  </div>
+
 </div>
+
 
 ---
 
