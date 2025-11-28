@@ -40,7 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50"/>
 
   <!-- Docker -->
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-Blue-Alt.png" width="130"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Horizontal.png" width="150"/>
+
 
 
 </div>
