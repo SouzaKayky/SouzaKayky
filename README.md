@@ -1,10 +1,10 @@
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouzaKayky&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SouzaKayky&show_icons=true&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaKayky&layout=compact&theme=tokyonight" />
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouzaKayky&theme=tokyonight" />
 
 
 <h1 align="center">Sobre mim</h1>
