@@ -36,8 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="44" title="Redis"/>
-  <img src="./assets/readme/docker-icon.svg" width="44" title="Docker"/>
-  <img src="./assets/readme/nginx-icon.svg" width="44" title="Nginx"/>
+  <img src="https://www.svgrepo.com/download/354926/docker.svg" width="44" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="44" title="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git"/>
   <img src="https://cdn.simpleicons.org/github/00aaff" width="44" title="GitHub"/>
@@ -62,8 +62,3 @@
 
 ---
 
-<p align="center">
-  <a href="http://www.asstack.com.br/">AS Stack</a> ·
-  <a href="mailto:contato@asstack.com.br">contato@asstack.com.br</a> ·
-  <a href="https://instagram.com/as.stack">@as.stack</a>
-</p>
