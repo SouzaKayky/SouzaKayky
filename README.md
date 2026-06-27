@@ -10,7 +10,7 @@
 <h3 align="center">Projeto em andamento</h3>
 
 <p align="center">
-  Estou tirando do papel a <strong><a href="https://github.com/SouzaKayky/as_stack_project">AS Stack</a></strong> — empresa de tecnologia com foco em
+  Estou tirando do papel a <strong><a href="http://www.asstack.com.br/">AS Stack</a></strong> — empresa de tecnologia com foco em
   <strong>Inteligência Artificial</strong>, <strong>automação</strong> e <strong>desenvolvimento de software</strong>.
 </p>
 
@@ -36,13 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="44" title="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="44" title="Nginx"/>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.4S5pVCIB-tkWqado8CQ7bAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="44" title="Docker"/>
+  <img src="https://www.bing.com/th/id/OIP.a57uUgjiASE8-lTHfi9VawAAAA?w=160&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="44" title="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/00aaff" width="44" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" title="MySQL"/>
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="44" title="MySQL"/>
 </div>
 
 ---
@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SouzaKayky/as_stack_project">AS Stack</a> ·
+  <a href="http://www.asstack.com.br/">AS Stack</a> ·
   <a href="mailto:contato@asstack.com.br">contato@asstack.com.br</a> ·
   <a href="https://instagram.com/as.stack">@as.stack</a>
 </p>
