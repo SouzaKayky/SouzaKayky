@@ -24,7 +24,7 @@
 <h3 align="center">O que estudo agora</h3>
 
 <p align="center">
-  Linux · Git · Docker · FastAPI · PostgreSQL · Redis · Nginx · Segurança · GitHub Actions · Monitoramento · Backup
+  Linux · Git · JavaScript · CSS · Docker · FastAPI · PostgreSQL · Redis · Nginx · Segurança · GitHub Actions · Monitoramento · Backup
 </p>
 
 ---
@@ -36,12 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="44" title="Redis"/>
-  <img src="https://tse1.mm.bing.net/th/id/OIP.4S5pVCIB-tkWqado8CQ7bAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="44" title="Docker"/>
-  <img src="https://www.bing.com/th/id/OIP.a57uUgjiASE8-lTHfi9VawAAAA?w=160&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="44" title="Nginx"/>
+  <img src="./assets/readme/docker-icon.svg" width="44" title="Docker"/>
+  <img src="./assets/readme/nginx-icon.svg" width="44" title="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git"/>
   <img src="https://cdn.simpleicons.org/github/00aaff" width="44" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" title="JavaScript"/>
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="44" title="MySQL"/>
 </div>
 
